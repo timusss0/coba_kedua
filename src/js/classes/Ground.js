@@ -11,3 +11,6 @@ class Ground{
     board.fillRect(0, 0, this.width, this.height)
  }
 }
+
+const bye = (b)
+console.log(bye(byeguys));
