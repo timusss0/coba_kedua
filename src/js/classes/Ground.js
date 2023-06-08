@@ -12,5 +12,3 @@ class Ground{
  }
 }
 
-const bye = (b)
-console.log(bye(byeguys));
